@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TVSeries</string>
+    <string name="menuSearch">Busca</string>
+    <string name="searchPerson">Pesquisar pessoa</string>
+    <string name="favorite_series">Séries favoritas</string>
+    <string name="title_main">Séries</string>
+</resources>
